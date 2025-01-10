@@ -1,4 +1,5 @@
-## Hi there!! I'm Rakibul Islam. I work at the Largest online and offline based tutoring platform CareTutor in Bangladesh. I Gave in-person lessons on physics, mathematics, and programming Languages (Python, C, C++ and JavaScript) to high school and college level students.
+## Hi there!! 
+I'm Rakibul Islam. I work at Bangladesh's Largest online and offline-based tutoring platform, CareTutor. I Gave in-person lessons on physics, mathematics, and programming Languages (Python, C, C++, and JavaScript) to high school and college-level students.
 
 <!--
 **raaakibul/raaakibul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
