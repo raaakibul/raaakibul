@@ -1,5 +1,5 @@
 ## Hi there!! 
-I'm Rakibul Islam. I work at Bangladesh's Largest online and offline-based tutoring platform, CareTutor. I Gave in-person lessons on physics, mathematics, and programming Languages (Python, C, C++, and JavaScript) to high school and college-level students.
+My name is Rakibul Islam. I work at CareTutor, Bangladesh's Largest online and offline tutoring platform. I Have given in-person lessons on physics, mathematics, and programming Languages (Python, C, C++, and JavaScript) to high school and college-level students.
 
 I aim to become a research scientist at a prestigious university. I am particularly interested in combining academic research with industrial collaboration. I aspire to establish my lab to conduct cutting-edge research that advances science and benefits academia and industry. As a dedicated learner, I investigate the possible benefits of artificial intelligence technology in enhancing human life. My research interests include machine learning, deep learning, and artificial intelligence in designing and implementing research tools. My primary purpose is to develop widely implementable machine and deep learning-based solutions for real scenarios in synthetic technology. You can find out more at https://raaakibul.github.io/
 
@@ -12,6 +12,8 @@ My main research interest lies in Machine Learning and deep learning-based Artif
 3. Machine Learning
 4. Deep Learning
 
+Would you be interested in collaborating?
+Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested in any of my research projects or want to discuss potential collaborations.
 <!--
 **raaakibul/raaakibul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
