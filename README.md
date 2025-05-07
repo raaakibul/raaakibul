@@ -75,6 +75,3 @@ Software Engr. Intern
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaakibul&show_icons=true&locale=en&layout=compact" alt="raaakibul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaakibul&show_icons=true&locale=en" alt="raaakibul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaakibul&" alt="raaakibul" /></p>
-
