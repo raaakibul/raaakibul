@@ -14,6 +14,10 @@ My main research interest lies in Machine Learning and deep learning-based Artif
 
 Would you be interested in collaborating?
 Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested in any of my research projects or want to discuss potential collaborations.
+
+
+# Technical Skill
+
 <!--
 **raaakibul/raaakibul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
