@@ -54,7 +54,6 @@ Software Engr. Intern
 
 
 <h3 align="center">Summary of Rakibul Islam</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaakibul&label=Profile%20views&color=0e75b6&style=flat" alt="raaakibul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaakibul" alt="raaakibul" /></a> </p>
@@ -64,10 +63,10 @@ Software Engr. Intern
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raakibul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raakibul_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raakibul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raakibul/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raakibul.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raakibul.14" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/raakibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/raakibul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/raakibul.uap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/raakibul.uap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raakibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raakibul" height="30" width="40" /></a>
+<a href="https://fb.com/raakibul.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raakibul.14" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/raakibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raakibul" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/raakibul.uap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raakibul.uap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,3 +75,6 @@ Software Engr. Intern
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaakibul&show_icons=true&locale=en&layout=compact" alt="raaakibul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaakibul&show_icons=true&locale=en" alt="raaakibul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaakibul&" alt="raaakibul" /></p>
+
