@@ -17,9 +17,9 @@ Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested i
 
 
 # Technical Skill
-Programming Languages: Python, JavaScript, SQL, Java, C++, C.
-Python Packages: Pytorch, OpenCV, Pandas, Matplotlib, Keras, Sci-kit learn, TensorFlow
-Web Technologies: HTML, CSS, SASC, Bootstrap, JavaScript, TypeScript, React, Json, Flask
+-Programming Languages: Python, JavaScript, SQL, Java, C++, C.
+-Python Packages: Pytorch, OpenCV, Pandas, Matplotlib, Keras, Sci-kit learn, TensorFlow
+-Web Technologies: HTML, CSS, SASC, Bootstrap, JavaScript, TypeScript, React, Json, Flask
 Tools: Microsoft Word, Excel, Latex, Visual Studio, Microsoft SQL Server, MySQL, Power BI, Git
 Project Management: Communication Skills (Written & Verbal), Quantitative Skills, Initiative, Interpersonal
 Skills, Teamwork, Time Management, etc.
