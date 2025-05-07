@@ -15,6 +15,14 @@ My main research interest lies in Machine Learning and deep learning-based Artif
 Would you be interested in collaborating?
 Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested in any of my research projects or want to discuss potential collaborations.
 
+# Work Experience 
+CareTutors
+> Instructor at the Largest online and offline tutoring platform.
+> Dhaka, Bangladesh | Oct. 2023 – Present
+
+Software Engr. Intern
+> BrogrammersLab
+> Dhaka, Bangladesh | Dec. 2022 – May 2023
 
 # Technical Skills
  -  Programming Languages: Python, JavaScript, SQL, Java, C++, C.
@@ -41,4 +49,7 @@ Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested i
  - [SQL for Data Science](https://coursera.org/share/1d50a538fe007a3300a2e585beecfd5a)
  - [Foundations: Data, Data, Everywhere](https://coursera.org/share/3a46ff13cf7b8dfbcdb2c7087867137e)
  - [Calculus for Machine Learning and Data Science](https://coursera.org/share/8fd655b33686348ebdeee55ecd0f8539)
+
+# Projects and Publications
+ - Deep Learning-Based Background Noise Classification and Reduction for Audio Enhancement. – under review
 
