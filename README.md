@@ -27,3 +27,9 @@ Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested i
  -  Text Processing: Overleaf, MS Word.
  -  Machine Learning, Deep Learning, Data Science
  -  Version Control: Git, GitHub.
+
+# Certifactions & Awards
+ - Mathematics for Machine Learning and Data Science [https://www.coursera.org/account/accomplishments/specialization/1Y8ACWUNSVQ7]
+ - Machine Learning [https://coursera.org/share/50741351fa9d1f00ed433ddcd85bfca2]
+ - Data Visualization with Python [https://coursera.org/share/f326cbd377eecd01dbfb90815d37875f]
+ - 
