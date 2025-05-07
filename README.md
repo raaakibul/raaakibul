@@ -5,7 +5,7 @@ I aim to become a research scientist at a prestigious university. I am particula
 
 Previously, I completed my Bachelor’s in Computer Science at the University of Asia Pacific.  
 
-Research Interests!!
+# Research Interests!!
 My main research interest lies in Machine Learning and deep learning-based Artificial Intelligence systems. I want to research next-generation Machine Learning and Deep Learning-based AI systems. The Research interest that I have--
 1. Artificial Intelligence
 2. Data Science
@@ -16,30 +16,15 @@ Would you be interested in collaborating?
 Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested in any of my research projects or want to discuss potential collaborations.
 
 
-# Technical Skill
--Programming Languages: Python, JavaScript, SQL, Java, C++, C.
--Python Packages: Pytorch, OpenCV, Pandas, Matplotlib, Keras, Sci-kit learn, TensorFlow
--Web Technologies: HTML, CSS, SASC, Bootstrap, JavaScript, TypeScript, React, Json, Flask
-Tools: Microsoft Word, Excel, Latex, Visual Studio, Microsoft SQL Server, MySQL, Power BI, Git
-Project Management: Communication Skills (Written & Verbal), Quantitative Skills, Initiative, Interpersonal
-Skills, Teamwork, Time Management, etc.
-Communication Languages: English (Native), Bengali (Fluent)
-Tools: Colab, Anaconda, Jupyter Notebook.
-Text Processing: Overleaf, MS Word.
-Machine Learning
-Version Control: Git, GitHub.
-
-<!--
-**raaakibul/raaakibul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills
+    Programming Languages: Python, JavaScript, SQL, Java, C++, C.
+    Python Packages: Pytorch, OpenCV, Pandas, Matplotlib, Keras, Sci-kit learn, TensorFlow
+    Web Technologies: HTML, CSS, SASC, Bootstrap, JavaScript, TypeScript, React, Json, Flask
+    Tools: Microsoft Word, Excel, Latex, Visual Studio, Microsoft SQL Server, MySQL, Power BI, Git
+    Project Management: Communication Skills (Written & Verbal), Quantitative Skills, Initiative, Interpersonal
+    Skills, Teamwork, Time Management, etc.
+    Communication Languages: English (Native), Bengali (Fluent)
+    Tools: Colab, Anaconda, Jupyter Notebook.
+    Text Processing: Overleaf, MS Word.
+    Machine Learning, Deep Learning, Data Science
+    Version Control: Git, GitHub.
