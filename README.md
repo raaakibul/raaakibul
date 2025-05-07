@@ -7,10 +7,10 @@ Previously, I completed my Bachelor’s in Computer Science at the University of
 
 # Research Interests!!
 My main research interest lies in Machine Learning and deep learning-based Artificial Intelligence systems. I want to research next-generation Machine Learning and Deep Learning-based AI systems. The Research interest that I have--
-1. Artificial Intelligence
-2. Data Science
-3. Machine Learning
-4. Deep Learning
+  - Artificial Intelligence
+  - Data Science
+  - Machine Learning
+  - Deep Learning
 
 Would you be interested in collaborating?
 Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested in any of my research projects or want to discuss potential collaborations.
@@ -29,7 +29,16 @@ Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested i
  -  Version Control: Git, GitHub.
 
 # Certifactions & Awards
- - Mathematics for Machine Learning and Data Science [https://www.coursera.org/account/accomplishments/specialization/1Y8ACWUNSVQ7]
- - Machine Learning [https://coursera.org/share/50741351fa9d1f00ed433ddcd85bfca2]
- - Data Visualization with Python [https://coursera.org/share/f326cbd377eecd01dbfb90815d37875f]
- - 
+ - [Mathematics for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/specialization/1Y8ACWUNSVQ7)
+ - [Machine Learning](https://coursera.org/share/50741351fa9d1f00ed433ddcd85bfca2)
+ - [Data Visualization with Python](https://coursera.org/share/f326cbd377eecd01dbfb90815d37875f)
+ - [Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/65bb57334bd0414548da49aa44ed202c)
+ - [Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/a608b40547bf1c142eee2986eb4c4a53)
+ - [Advanced Learning Algorithms](https://coursera.org/share/adbeeafa3c0a1687978ddb436a898794)
+ - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/44564b69e9e07d08974be9922ebd1c2e)
+ - [What is Data Science](https://coursera.org/share/3ea48881ef2de0bdb26bc69271ce69be)
+ - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/5e636c0c4e607246be4c240bef8a8715)
+ - [SQL for Data Science](https://coursera.org/share/1d50a538fe007a3300a2e585beecfd5a)
+ - [Foundations: Data, Data, Everywhere](https://coursera.org/share/3a46ff13cf7b8dfbcdb2c7087867137e)
+ - [Calculus for Machine Learning and Data Science](https://coursera.org/share/8fd655b33686348ebdeee55ecd0f8539)
+
