@@ -1,5 +1,5 @@
 ## Hi there!! 
-My name is Rakibul Islam. I work at CareTutor, Bangladesh's Largest online and offline tutoring platform. I Have given in-person lessons on physics, mathematics, and programming Languages (Python, C, C++, and JavaScript) to high school and college-level students.
+My name is Rakibul Islam. I work at CareTutor, Bangladesh's Largest online and offline tutoring platform. I have given in-person lessons on physics, mathematics, and programming Languages (Python, C, C++, and JavaScript) to high school and college-level students.
 
 I aim to become a research scientist at a prestigious university. I am particularly interested in combining academic research with industrial collaboration. I aspire to establish my lab to conduct cutting-edge research that advances science and benefits academia and industry. As a dedicated learner, I investigate the possible benefits of artificial intelligence technology in enhancing human life. My research interests include machine learning, deep learning, and artificial intelligence in designing and implementing research tools. My primary purpose is to develop widely implementable machine and deep learning-based solutions for real scenarios in synthetic technology. You can find out more at https://raaakibul.github.io/
 
@@ -11,6 +11,7 @@ My main research interest lies in Machine Learning and deep learning-based Artif
   - Data Science
   - Machine Learning
   - Deep Learning
+  - Computer Vision
 
 Would you be interested in collaborating?
 Feel free to contact me ( Email: raakibul.uap@gmail.com) if you are interested in any of my research projects or want to discuss potential collaborations.
@@ -28,7 +29,7 @@ Software Engr. Intern
  -  Programming Languages: Python, JavaScript, SQL, Java, C++, C.
  -  Python Packages: Pytorch, Opencv, Pandas, Matplotlib, Keras, Sci-kit learn, TensorFlow
  -  Web Technologies: HTML, CSS, SASC, Bootstrap, JavaScript, TypeScript, React, JSON, Flask
- -  Tools: Microsoft Word, Excel, Latex, Visual Studio, Microsoft SQL Server, MySQL, Power BI, Git, Colab, Anaconda, Jupyter Notebook.
+ -  Tools: Microsoft Word, Excel, LaTeX, Visual Studio, Microsoft SQL Server, MySQL, Power BI, Git, Colab, Anaconda, Jupyter Notebook.
  -  Project Management: Communication Skills (Written & Verbal), Quantitative Skills, Initiative, Interpersonal Skills, Teamwork, Time Management, etc.
  -  Communication Languages: English (Native), Bengali (Fluent)
  -  Text Processing: Overleaf, MS Word.
@@ -38,7 +39,7 @@ Software Engr. Intern
 # Certifactions & Awards
  - [Mathematics for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/specialization/1Y8ACWUNSVQ7)
  - [Machine Learning](https://coursera.org/share/50741351fa9d1f00ed433ddcd85bfca2)
- - [Data Visualization with Python](https://coursera.org/share/f326cbd377eecd01dbfb90815d37875f)
+ - [Data Visualisation with Python](https://coursera.org/share/f326cbd377eecd01dbfb90815d37875f)
  - [Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/65bb57334bd0414548da49aa44ed202c)
  - [Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/a608b40547bf1c142eee2986eb4c4a53)
  - [Advanced Learning Algorithms](https://coursera.org/share/adbeeafa3c0a1687978ddb436a898794)
