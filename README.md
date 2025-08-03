@@ -8,7 +8,7 @@ Previously, I completed my Bachelor’s in Computer Science at the University of
 # Research Interests!!
 My main research interest lies in Machine Learning and deep learning-based Artificial Intelligence systems. I want to research next-generation Machine Learning and Deep Learning-based AI systems. The Research interest that I have--
   - Artificial Intelligence
-  - Data Science
+  - Applied Machine Learning
   - Machine Learning
   - Deep Learning
   - Computer Vision
